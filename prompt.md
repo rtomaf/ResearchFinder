@@ -65,6 +65,28 @@ The following is the complete list of regulatory bodies, scientific committees, 
 - **ECETOC** — European Centre for Ecotoxicology and Toxicology of Chemicals
 - **NIHS** — National Institute of Health Sciences (Japan)
 
+### Scientific Journals & Databases to Search
+- **PubMed / PMC** — pubmed.ncbi.nlm.nih.gov / pmc.ncbi.nlm.nih.gov
+- **Google Scholar** — scholar.google.com
+- **ScienceDirect (Elsevier)** — sciencedirect.com
+- **Springer / Nature** — springer.com / nature.com
+- **Wiley Online Library** — onlinelibrary.wiley.com
+- **MDPI** — mdpi.com (Cosmetics journal, Applied Sciences, Molecules)
+- **Frontiers** — frontiersin.org (Environmental Science, Pharmacology, Chemistry)
+- **Taylor & Francis** — tandfonline.com
+- **Journal of Cosmetic Dermatology** (Wiley)
+- **International Journal of Cosmetic Science** (Wiley)
+- **Contact Dermatitis** (Wiley)
+- **British Journal of Dermatology** (Oxford)
+- **Journal of the American Academy of Dermatology (JAAD)**
+- **International Journal of Toxicology** (SAGE — CIR publishes here)
+- **Regulatory Toxicology and Pharmacology** (Elsevier)
+- **Archives of Toxicology** (Springer)
+- **Toxicology Letters** (Elsevier)
+- **Food and Chemical Toxicology** (Elsevier)
+- **Dermatologic Therapy** (Wiley)
+- **Clinical, Cosmetic and Investigational Dermatology** (Dove Medical Press)
+
 ## Search Strategy
 
 Perform web searches for EACH of the following topics. Use multiple searches to ensure thorough coverage. Aim for broad global coverage across the regulatory bodies listed above.
@@ -97,7 +119,15 @@ Perform web searches for EACH of the following topics. Use multiple searches to 
 - CMR substances cosmetics updates
 
 ### 4. Scientific Ingredient Research — Negative Findings
-Search for recent studies revealing risks, concerns, or harmful effects of cosmetic ingredients:
+Search for recent studies revealing risks, concerns, or harmful effects of cosmetic ingredients.
+Search across ALL of the following scientific portals and databases:
+- site:pubmed.ncbi.nlm.nih.gov cosmetic ingredient toxicity {{YEAR}}
+- site:scholar.google.com cosmetic ingredients adverse effects {{YEAR}}
+- site:sciencedirect.com cosmetic ingredient safety risk {{YEAR}}
+- site:mdpi.com cosmetics ingredient toxicology {{YEAR}}
+- site:frontiersin.org cosmetic ingredients risk assessment {{YEAR}}
+- site:nature.com cosmetic ingredient harmful effects {{YEAR}}
+- site:wiley.com contact dermatitis cosmetic ingredients {{YEAR}}
 - Cosmetic ingredients carcinogenic cancer risk new study {{YEAR}}
 - Endocrine disruptors cosmetics new research findings {{YEAR}}
 - Cosmetic ingredients skin sensitization allergic reactions study
@@ -105,19 +135,33 @@ Search for recent studies revealing risks, concerns, or harmful effects of cosme
 - UV filters sunscreen ingredients toxicity reproductive effects
 - Microplastics cosmetics environmental health impact research
 - Fragrance chemicals cosmetics adverse effects study
-- PubMed cosmetic ingredient adverse effects recent
+- International Journal of Toxicology cosmetic ingredients recent
+- Regulatory Toxicology and Pharmacology cosmetics {{YEAR}}
+- Contact Dermatitis journal cosmetic allergens {{YEAR}}
+- Archives of Toxicology cosmetic ingredients {{YEAR}}
 
 ### 5. Scientific Ingredient Research — Positive Findings
-Search for recent studies demonstrating benefits or efficacy of cosmetic ingredients:
+Search for recent studies demonstrating benefits or efficacy of cosmetic ingredients.
+Search across ALL of the following scientific portals and databases:
+- site:pubmed.ncbi.nlm.nih.gov cosmetic ingredient efficacy skin {{YEAR}}
+- site:sciencedirect.com cosmetic active ingredient skin benefit {{YEAR}}
+- site:mdpi.com cosmetics active ingredients efficacy {{YEAR}}
+- site:springer.com dermatology cosmetic ingredients clinical {{YEAR}}
+- site:tandfonline.com cosmetic dermatology ingredients {{YEAR}}
 - Anti-aging ingredients wrinkles collagen clinical study {{YEAR}}
 - Skin barrier repair moisturizing ingredients research {{YEAR}}
 - Antioxidant cosmetic ingredients skin protection new study
 - Peptides skin care efficacy clinical trial results
 - Retinoid retinol skin benefits new research
-- Hyaluronic acid niacinamide vitamin C skin study results
+- Hyaluronic acid niacinamide vitamin C skin study results {{YEAR}}
 - Natural botanical extracts skin benefits research {{YEAR}}
 - Probiotics postbiotics skin microbiome cosmetics study
 - New active cosmetic ingredients discovery efficacy {{YEAR}}
+- Journal of Cosmetic Dermatology recent articles {{YEAR}}
+- British Journal of Dermatology cosmetic ingredients {{YEAR}}
+- International Journal of Cosmetic Science recent {{YEAR}}
+- Journal of the American Academy of Dermatology cosmetic study {{YEAR}}
+- Cosmetics MDPI journal new articles {{YEAR}}
 
 ### 6. Industry News & Innovation
 - Cosmetic ingredients innovation trends {{YEAR}}
