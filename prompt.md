@@ -96,7 +96,30 @@ Perform web searches for EACH of the following topics. Use multiple searches to 
 - Nanoparticles cosmetics safety assessment
 - CMR substances cosmetics updates
 
-### 4. Industry News & Innovation
+### 4. Scientific Ingredient Research — Negative Findings
+Search for recent studies revealing risks, concerns, or harmful effects of cosmetic ingredients:
+- Cosmetic ingredients carcinogenic cancer risk new study {{YEAR}}
+- Endocrine disruptors cosmetics new research findings {{YEAR}}
+- Cosmetic ingredients skin sensitization allergic reactions study
+- Preservatives parabens formaldehyde cosmetics health risks research
+- UV filters sunscreen ingredients toxicity reproductive effects
+- Microplastics cosmetics environmental health impact research
+- Fragrance chemicals cosmetics adverse effects study
+- PubMed cosmetic ingredient adverse effects recent
+
+### 5. Scientific Ingredient Research — Positive Findings
+Search for recent studies demonstrating benefits or efficacy of cosmetic ingredients:
+- Anti-aging ingredients wrinkles collagen clinical study {{YEAR}}
+- Skin barrier repair moisturizing ingredients research {{YEAR}}
+- Antioxidant cosmetic ingredients skin protection new study
+- Peptides skin care efficacy clinical trial results
+- Retinoid retinol skin benefits new research
+- Hyaluronic acid niacinamide vitamin C skin study results
+- Natural botanical extracts skin benefits research {{YEAR}}
+- Probiotics postbiotics skin microbiome cosmetics study
+- New active cosmetic ingredients discovery efficacy {{YEAR}}
+
+### 6. Industry News & Innovation
 - Cosmetic ingredients innovation trends {{YEAR}}
 - New cosmetic active ingredients launches
 - Sustainable cosmetic ingredients developments
@@ -123,6 +146,18 @@ Structure your findings as a professional markdown report. The report MUST be bi
 ## Alertas de Seguridad y Toxicología
 [Advertencias, retiros o hallazgos toxicológicos con fuentes]
 
+## Investigación Científica — Hallazgos Negativos
+Estudios recientes que revelan riesgos o efectos adversos de ingredientes cosméticos.
+Para cada hallazgo incluir: ingrediente, riesgo identificado, tipo de estudio (in vitro / in vivo / clínico / epidemiológico), revista, enlace.
+| Ingrediente | Riesgo Identificado | Tipo de Estudio | Revista | Enlace |
+|---|---|---|---|---|
+
+## Investigación Científica — Hallazgos Positivos
+Estudios recientes que demuestran beneficios o eficacia de ingredientes cosméticos.
+Para cada hallazgo incluir: ingrediente, beneficio demostrado, tipo de estudio, revista, enlace.
+| Ingrediente | Beneficio Demostrado | Tipo de Estudio | Revista | Enlace |
+|---|---|---|---|---|
+
 ## Tendencias de la Industria e Innovación
 [Nuevos ingredientes, tendencias de formulación, noticias de sostenibilidad]
 
@@ -146,6 +181,18 @@ Structure your findings as a professional markdown report. The report MUST be bi
 ## Safety Alerts & Toxicology
 [Any warnings, recalls, or toxicology findings with sources]
 
+## Scientific Research — Negative Findings
+Recent studies revealing risks or adverse effects of cosmetic ingredients.
+For each finding include: ingredient, risk identified, study type (in vitro / in vivo / clinical / epidemiological), journal, link.
+| Ingredient | Risk Identified | Study Type | Journal | Link |
+|---|---|---|---|---|
+
+## Scientific Research — Positive Findings
+Recent studies demonstrating benefits or efficacy of cosmetic ingredients.
+For each finding include: ingredient, benefit demonstrated, study type, journal, link.
+| Ingredient | Benefit Demonstrated | Study Type | Journal | Link |
+|---|---|---|---|---|
+
 ## Industry Trends & Innovation
 [New ingredients, formulation trends, sustainability news]
 
@@ -161,5 +208,5 @@ Structure your findings as a professional markdown report. The report MUST be bi
 - Cover ALL regions: prioritize EU and US, but always include updates from Asia (NMPA, MFDS, ASEAN), Latin America (ANVISA, COFEPRIS), Middle East (SFDA, GSO), and other regions when available
 - Include CIR, SCCS, and RIFM safety assessments when available
 - Always tag each item with the originating regulatory body (e.g. [SCCS], [FDA], [NMPA], [ANVISA])
-- Minimum 6 web searches, maximum 15
+- Minimum 8 web searches, maximum 20
 - Every claim must have a source URL
