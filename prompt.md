@@ -36,9 +36,32 @@ Perform web searches for EACH of the following topics. Use multiple searches to 
 
 ## Output Format
 
-Structure your findings as a professional markdown report:
+Structure your findings as a professional markdown report. The report MUST be bilingual: **Spanish first, then English**, separated by a horizontal rule. Both versions must contain the same information.
 
 ```
+# Boletín de Investigación sobre Ingredientes Cosméticos — {{DATE}}
+
+## Actualizaciones Regulatorias
+[Cada actualización con: enlace a la fuente, fecha y resumen breve]
+
+## Nuevos Artículos de Investigación y Estudios
+[Cada artículo con: título, revista si está disponible, hallazgos clave, enlace]
+
+## Opiniones del SCCS y Evaluaciones de Seguridad
+| Ingrediente | Estado | Hallazgo Clave | Enlace |
+|---|---|---|---|
+
+## Alertas de Seguridad y Toxicología
+[Advertencias, retiros o hallazgos toxicológicos con fuentes]
+
+## Tendencias de la Industria e Innovación
+[Nuevos ingredientes, tendencias de formulación, noticias de sostenibilidad]
+
+## Fuentes
+[Lista numerada de todas las fuentes con URLs completas]
+
+---
+
 # Cosmetic Ingredients Research Digest — {{DATE}}
 
 ## Regulatory Updates
